@@ -10,7 +10,7 @@ exports.listId = null;
 
 // set 'exports.templateId = null' to opt out of using a template
 // or a string with the templateId to use a template
-exports.templateId = "dbc810ec-b776-4345-b0c7-02e2bbcd2ab4";
+exports.templateId = "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";
 
 // receive an email when a new signup is confirmed
 exports.sendNotification = true;
