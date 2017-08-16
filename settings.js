@@ -1,5 +1,5 @@
 // Change the url to the domain of your app
-exports.url = 'https://heroku.com/newslettersubscription.com;
+exports.url = 'https://heroku.com/newslettersubscription.com';
 
 exports.senderEmail = "inbox@azsbe.az.gov";
 exports.senderName = "Arizona State Board of Education";
